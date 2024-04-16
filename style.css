@@ -1,0 +1,108 @@
+.banner {
+    background: url("/simon-noh-0rmby-3OTeI-unsplash.jpg") no-repeat center center;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 10%;
+    color: #ffffff;
+  }
+  
+  .lingkaran {
+    display: inline-block;
+    border-radius: 50%;
+    width: 150px;
+    margin: auto;
+    height: 150px;
+    color: #ffffff;
+    background-color: #000000;
+  }
+  
+  .lingkaran i {
+    position: relative;
+    top: 30px;
+  }
+  
+  .crop-img {
+    object-fit: cover;
+  }
+  
+  a.social {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    color: #fff;
+    border-radius: 50%;
+    background-color: #333;
+    line-height: 40px;
+  }
+  
+  .kontak {
+    background: url("") no-repeat
+      center center;
+    background-size: cover;
+    padding-bottom: 20%;
+    padding-top: 20%;
+    color: #000000;
+  }
+
+  .display-1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-shadow: 3px 3px 3px black;
+  }
+
+  .display-6 {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-shadow: 3px 3px 3px black;
+
+  }
+
+  .display-3 {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+  }
+
+  .card-title {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+  }
+
+  .card-text {
+    font-family: 'Times New Roman', Times, serif;
+  }
+
+  .display-3 text-center {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+  }
+
+  .text-center {
+    font-family: 'Times New Roman', Times, serif;
+  }
+
+
+  table {
+    width: 45%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #000000;
+}
+
+th {
+    background-color: #f44d4d;
+}
+
+tr:hover {
+    background-color: #eb8888;
+}
+
+.mt-3 {
+  font-family: 'Ties New Roman', Times, serif;
+  font-weight: bold;
+
+}
